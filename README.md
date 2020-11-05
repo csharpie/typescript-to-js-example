@@ -1,6 +1,6 @@
-# Typescript to JS Example
+# TypeScript to JS Example
 
-This goal of this project is have a small working sample of how you can create JS files from Typescript files, for those who are new or unfamiliar with Typescript.
+This goal of this project is have a small working sample of how you can create JS files from TypeScript files, for those who are new or unfamiliar with TypeScript.
 
 ## Directory Structure
 
@@ -27,7 +27,7 @@ dist/
 
 node_modules/
 
-- these are the js libraries you'll need to run webpack and use typescript to compile your code
+- these are the js libraries you'll need to run webpack and use TypeScript to compile your code
 - never check this directory into source control; your devops pipeline should take care of installing these libraries in production
 
 src/
