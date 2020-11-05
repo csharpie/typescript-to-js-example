@@ -11,5 +11,8 @@
   },
   "scripts": {
     "compile": "webpack"
+  },
+  "dependencies": {
+    "copy-webpack-plugin": "^6.3.0"
   }
 }
